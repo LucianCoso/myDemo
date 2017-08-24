@@ -1,0 +1,7 @@
+import(tm)
+import(SnowballC)
+import(wordcloud)
+import(e1071)
+import(gmodels)
+
+export(isSpam)
